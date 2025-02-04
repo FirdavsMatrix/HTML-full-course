@@ -1,1 +1,1 @@
-If you are coming from Firdavs Matrix Tutorials YouTube channel, in this repository, you can find the source code for each lesson. Good Luck!
+If you are coming from the "Firdavs Matrix Tutorials" YouTube channel, you can find the source code for each HTML FULL COURSE chapter in this repository. Good Luck!
